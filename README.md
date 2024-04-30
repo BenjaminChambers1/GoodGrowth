@@ -10,7 +10,9 @@ weather forecast will not be displayed and when the sign-up button is clicked (i
 another API could be fired off sending information to my/our database with the information that someone has clicked the call to action and whether or not
 the weather graphic was active.
 
-The data from this in my opinion will draw a conclusion on its effectiveness
+The data from this in my opinion will conclude its effectiveness.
+
+Also in terms of its actual implementation... I would upload the script to an AWS s3 bucket and then use Cloudfront distribution
 
 Example of what it looks like: ![image](https://github.com/BenjaminChambers1/GoodGrowth/assets/51539083/4834b3fd-7132-4134-a7d8-bc12fe195155)
 
