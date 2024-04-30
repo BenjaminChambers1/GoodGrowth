@@ -1,5 +1,5 @@
 const addressEl = document.querySelector("p[data-testid='place-postal-address']"); //get the address by using its unique id
-const APIKey = '442abc67f25b4c2f8ba184627242904';
+const APIKey = '';
 const weatherShow = Math.random() > 0.5;
 
 document.querySelector("a[data-testid='join-link']").addEventListener('click', () => { //place a listener on the join link call to action
